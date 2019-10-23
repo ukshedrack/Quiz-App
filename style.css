@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+/*.container{
+	display: none;
+}*/
+.instructions{
+	max-width: 400px;
+	display: none;
+}
+
+.Q1, .Q2, .Q3, .Q4, 
+.Q5, .Q6, .Q7, 
+.Q8, .Q9, .Q10{
+	display: none;
+}
+
+img{
+	position: relative;
+	width: 150px;
+	height: 150px;
+	display: none;
+}
